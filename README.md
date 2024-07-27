@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=convixt" alt="convixt" /></a> </p>
 
-- 🔭 I’m currently working on **AI based Podcast App**
+- 🔭 I’m currently working on **Patient Management App**
 
 - 👨‍💻 All of my projects are available at [https://nishithfolio.vercel.app/](https://nishithfolio.vercel.app/)
 
