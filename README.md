@@ -52,14 +52,13 @@ Hi, I'm Nishith Pandey, a Full Stack Developer 🚀 from India, currently, I'm a
 
 
 
-![Nishith's github stat]("https://github-readme-stats.vercel.app/api/top-langs?username=convixt&show_icons=true&locale=en&layout=compact")
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=convixt&show_icons=true&locale=en&layout=compact" alt="convixt" /></p>
 
-⭐️ From [convixt](https://github.com/Convixt)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=convixt&show_icons=true&locale=en" alt="convixt" /></p>
 
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
-</a>
+
+
+
+
 
