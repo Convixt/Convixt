@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/mr_convict_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_convict_" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/nishith-pandey-635091228>
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkdeIN" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a href="https://www.leetcode.com/nishith_0518_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishith_0518_" height="30" width="40" /></a>
 
 
