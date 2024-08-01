@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Nishith!](https://nishithfolio.vercel.app/) 
+### Hey 👋, I'm [Nishith!](https://nishithfolio.vercel.app/) 
 
 <a href="https://twitter.com/mr_convict_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_convict_" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/nishith-pandey-635091228>
