@@ -7,7 +7,7 @@
 
 
 
-<a href="https://www.leetcode.com/nishith_0518_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishith_0518_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nishith_0518_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishith_0518_" height="30" width="40" /></a>
 
 
 <br />
