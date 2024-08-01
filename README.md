@@ -47,8 +47,7 @@ Hi, I'm Nishith Pandey, a Full Stack Developer 🚀 from India, currently, I'm a
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
+
 
 
 
