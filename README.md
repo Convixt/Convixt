@@ -84,6 +84,9 @@ Hi, I'm Nishith Pandey, a Full Stack Developer 🚀 from India, currently, I'm a
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=convixt&show_icons=true&locale=en" alt="convixt" /></p>
 
 
+## ⭐️ From [Convixt](https://github.com/Convixt/Convixt)
+
+
 
 
 
