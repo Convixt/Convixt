@@ -1,8 +1,8 @@
 ### Hey 👋, I'm [Nishith!](https://nishithfolio.vercel.app/) 
 
-<a href="https://twitter.com/mr_convict_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_convict_" height="30" width="40" /></a>
-<a href=https://www.linkedin.com/in/nishith-pandey-635091228>
-   <img align="left" alt="Abhishek's LinkdeIN" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.leetcode.com/nishith_0518_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishith_0518_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishith-pandey-635091228" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/_nishith.__?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/lu4fqfbeay78o98vnjxgp8bjk?si=ndvpxx_QTlq_duoxrjtW3A" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
 <br />
