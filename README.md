@@ -8,11 +8,11 @@
 <br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=convixt&label=Profile%20views&color=0e75b6&style=flat" alt="convixt" /> </p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 <br />
 
 
-  <br />
+ <img align="right" alt="GIF" height="30px" width="30px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 Hi, I'm Nishith Pandey, a Full Stack Developer 🚀 from India, currently, I'm a  Freelancer 👨🏽‍💻 and a Former  Intern [@Nouviex Technology](https://nouviex.com/). Beside's programming, I enjoy eating food , writing verses and traveling.
 
