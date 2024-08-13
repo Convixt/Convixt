@@ -8,6 +8,7 @@
 <br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=convixt&label=Profile%20views&color=0e75b6&style=flat" alt="convixt" /> </p>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br />
 
 
