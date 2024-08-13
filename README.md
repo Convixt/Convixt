@@ -12,7 +12,7 @@
 <br />
 
 
- <img align="right" alt="GIF" height="30px" width="30px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img align="right" alt="GIF" height="120px" width="120px"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 Hi, I'm Nishith Pandey, a Full Stack Developer 🚀 from India, currently, I'm a  Freelancer 👨🏽‍💻 and a Former  Intern [@Nouviex Technology](https://nouviex.com/). Beside's programming, I enjoy eating food , writing verses and traveling.
 
